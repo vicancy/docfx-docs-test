@@ -1,6 +1,6 @@
 ﻿{
   "metadata": [
-    {
+    { 
       "src": [
         {
           "files": [ "**/*.sln", "src/DotnetNew/*.csproj" ],
