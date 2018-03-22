@@ -9,6 +9,11 @@ The coding standard will be used in conjunction with customized version of *Styl
 >
 > Martin Fowler. *Refactoring: Improving the design of existing code.*
 
+# [**Tab Name**](#tab/tab-id-1)
+Content1 ...
+# [**Tab Name**](#tab/tab-id-2)
+Content2 ...
+
 ### Purpose
 
 The aim of this section is to define a set of C# coding standards to be used by CAPS build team to guarantee maximum legibility, reliability, re-usability and homogeneity of our code. Each section is marked *Mandatory* or *Recommended*. *Mandatory* sections, will be enforced during code reviews as well as tools like *StyleCop* and *FxCop*, and code will not be considered complete until it is compliant.
